@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anarttattoo.com.br/sitemap.xml
